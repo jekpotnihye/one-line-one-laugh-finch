@@ -8,7 +8,7 @@ the laugh is inside the line itself, and the twist lands in the last word.
 
 ## Entry
 
-> The self-checkout called for assistance before I'd scanned a single thing, which felt personal.
+> The self-checkout called for assistance before I'd scanned one thing, which felt personal.
 
 ## How to run
 
