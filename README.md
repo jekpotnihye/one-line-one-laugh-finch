@@ -1,6 +1,8 @@
-# One Line, One Laugh
+[![make.fun](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![Rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/jekpotnihye/one-line-one-laugh-finch/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![Reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/jekpotnihye/one-line-one-laugh-finch/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
-<!-- make.fun badges: to be added by the coordinator (3 live badge lines). Placeholder only — no badge URLs invented here. -->
+# One Line, One Laugh
 
 A single funny line of text, at most 200 characters, written to
 `/output/entry.txt` by `main.py`. No picture, no setup, no explanation:
