@@ -7,7 +7,7 @@ anything wrong, and the shopper taking that personally.
 
 import os
 
-ENTRY = "The self-checkout called for assistance before I scanned anything, which felt personal."
+ENTRY = "The self-checkout called for assistance before I'd scanned anything, which felt personal."
 
 
 def main() -> None:
